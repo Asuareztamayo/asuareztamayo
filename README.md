@@ -9,4 +9,4 @@ I wish I could expand my knowledge in the technology sector.
 
 - 😄 Pronouns: she, her. 
 
--->
+
