@@ -1,12 +1,7 @@
 ### Hi there 👋
+My experience in the development world is based on the use of technologies for backend and frontend such as PHP, Javascript, NodeJS, HTML / CSS, MySQL, API and frameworks such as Laravel and VUE. I have been  participate in development teams that apply Agile, TDD, and clean code methodologies through design patterns.
 
-- 🌱 Full-Stack Web Developer. My experience is based on the projects carried out in the Bootcamp Full-Stack Developer of Factory F5, in which we have worked with various technologies and methodologies.
-I wish I could expand my knowledge in the technology sector.
+I decided to turn my professional life around and without knowing it I ended up discovering what would become my new passion. I love cooking, board games, reading, and logic trivia.
 
-- 🔭 I’m currently working on HTML, CSS, Javascript, Bootstrap, Vue, PHP, Laravel, MySql, Github, Figma, Trello, UX/IU Design, Node.js, Materialize.
-
-- ⚡ Agile methodologies: Scrum, kanvan and Pair-Programming, Clean Code.
-
-- 😄 Pronouns: she, her. 
 
 
